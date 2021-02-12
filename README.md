@@ -36,9 +36,8 @@ __*ece*__
   print("hello")
    ```
    ### task insert a code of hello im c
-  
+  ```
     int main()
-   {
       printf("hello world!");
       return 0;
-   }
+   ```
