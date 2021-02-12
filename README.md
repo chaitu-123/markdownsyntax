@@ -51,5 +51,5 @@ __*ece*__
    ## adding imagee
    ![butterflt](https://github.com/chaitu-123/markdownsyntax/blob/master/rrr/image1.jpg)
    ### inserting videos
-   [![video]()](https://img.youtube.com/vi/watch?v=JA6MkoQGcxU/0.jpg)]
+   [![video]()](https://img.youtube.com/vi/JA6MkoQGcxU/0.jpg)]
   (https://www.youtube.com/watch?v=JA6MkoQGcxU)
