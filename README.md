@@ -41,6 +41,5 @@ __*ece*__
     int main()
     {
       printf("hello world!");
-      return 0;
     }
    ```
