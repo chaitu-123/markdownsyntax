@@ -52,4 +52,4 @@ __*ece*__
    ![butterflt](https://github.com/chaitu-123/markdownsyntax/blob/master/rrr/image1.jpg)
    ### inserting videos
    [![video]()](https://img.youtube.com/vi/JA6MkoQGcxU/0.jpg)]
-  (https://www.youtube.com/watch?v=JA6MkoQGcxU)
+  (https://www.youtube.com/watch?v=JA6-MkoQGcxU)
