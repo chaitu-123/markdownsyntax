@@ -32,6 +32,6 @@ __*ece*__
     - shash
     - bhsnu
   ### code
-  `python
+  ```python
   print("hello")
-   `
+   ```
