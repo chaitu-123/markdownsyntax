@@ -48,5 +48,5 @@ __*ece*__
    - online shopping
    [AJIO](https://www.ajio.com/)
    
-   ## addingb image
+   ## adding image
    ![butterflt](https://github.com/chaitu-123/markdownsyntax/blob/master/rrr/image1.jpg)
