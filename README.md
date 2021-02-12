@@ -1,2 +1,4 @@
 # markdownsyntax
-day2 markdown syntax for ecea
+## heading2
+### heading 3
+###### heading 6
