@@ -23,5 +23,4 @@ __*ece*__
     1. bhanu
     2. shashi
 3. akki
-    4. lehya
-    5. capsii
+    1. akshay
