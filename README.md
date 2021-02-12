@@ -45,3 +45,7 @@ __*ece*__
    ```
    ### inserting links
    [markdown sheet] (https://www.example.com)
+   - college web site link
+   [] ()
+   - gmail link
+   [] ()
