@@ -45,11 +45,5 @@ __*ece*__
    ```
    ### inserting links
    [markdown sheet] (https://www.example.com)
-   - college web site link
-   [] ()
-   - gmail link
-   [] ()
-   - git official site url
-   
    - online shopping
    [AJIO](https://www.ajio.com/)
